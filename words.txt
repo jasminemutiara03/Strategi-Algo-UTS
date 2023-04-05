@@ -1,0 +1,10 @@
+bag
+bus
+book
+eraser
+glue
+paper
+pencil
+pen
+pin
+ruler
