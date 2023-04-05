@@ -1,5 +1,4 @@
 
-
 ## Usage
 
 `cd` Gunakan perintah dibawah ini pada terminal atau CMD Visual studio Code:
@@ -48,10 +47,6 @@ Next Word (Return/Enter to Quit/Stop): Neptune
 Next Word (Return/Enter to Quit/Stop):
 ```
 
-## Exporting
-
-The Word Search boards can be exported as a `.html` file containing an `html` table of the Word Search grid, a LaTeX matrix version of the Word Search grid, and the word search grid as a String. The solution is also in the `html` file.
-
-## Dependencies
+## Language
 
 * [Python 3.7+](https://www.python.org/)
