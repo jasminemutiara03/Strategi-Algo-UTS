@@ -1,12 +1,8 @@
-# Word Search
 
-This program creates Word Searches.
-
-<img src="Documentation/wordsearch.gif" alt="Word Search Demo" />
 
 ## Usage
 
-`cd` into the directory containing these scripts and run
+`cd` Gunakan perintah dibawah ini pada terminal atau CMD Visual studio Code:
 <br>
 
 ```
@@ -15,7 +11,7 @@ python console.py
 
 <br>
 
-The following is an example of the console output:
+Setelah itu maka seperti ini dinext saja:
 
 <br>
 
